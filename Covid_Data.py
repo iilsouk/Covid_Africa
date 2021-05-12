@@ -185,12 +185,6 @@ ax1.set_ylabel("Avg. cases per 1M pop")
 fig.tight_layout() 
 fig.savefig("Average", dpi=300)
 
-fig, ax1 = plt.subplots()
-bars = ['Glob. % of cases']
-Covid_by_Cont[bars].plot.bar(ax=ax1, color = 'orange')
-fig.suptitle("Continent % of Cases")
-ax1.set_xlabel("Continents")
-ax1.set_ylabel('Glob. % of cases')
-fig.tight_layout() 
-fig.savefig("Continent_Share_of_Cases", dpi=300)
 
+
+merged2.to_file("merged2.gpkg",  layer="Country", driver="GPKG")
