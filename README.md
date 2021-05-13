@@ -15,11 +15,11 @@ Input files:
 -	World_GDP2021: Continents GDP 2021.
 
 Output files: 
--	Scripts: 
-1-	Covid_Data.py: Analysis of Covid-19 data
-2-	Health_Exp.py: Analysis of Health Expenditure
-3-	pop.py: Analysis of population data
-4-	Covid_Tests.py: Analysis of Covid-19 vaccination data
+- Scripts: 
+1.	Covid_Data.py: Analysis of Covid-19 data
+2.	Health_Exp.py: Analysis of Health Expenditure
+3.	pop.py: Analysis of population data
+4.	Covid_Tests.py: Analysis of Covid-19 vaccination data
 
 -	PNG files:
 1.	World-Cases: Total Covid Cases by Continent in Millions
