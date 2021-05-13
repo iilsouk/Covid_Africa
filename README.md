@@ -13,7 +13,7 @@ Input files:
 -	Health expenditure.csv: Health Expenditure by country
 -	Vaccines.csv: Covid-19 vaccination data by country
 -	World_GDP2021: Continents GDP 2021.
--	
+
 Output files: 
 -	Scripts: 
 1-	Covid_Data.py: Analysis of Covid-19 data
