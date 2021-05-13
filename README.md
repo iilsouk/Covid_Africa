@@ -1,8 +1,11 @@
 # Covid_Africa
 Project Title: Africa’s Management of the Covid-19 Pandemic.
-Data: This project uses data from two main sources
+
+Data: This project uses data from two main sources:
+
 1-	The website of the World Health Organization (https://www.who.int/)
 2-	World meters (https://www.worldometers.info/)
+
 Input files: 
 -	Covid_wrld.csv: Covid-19 data by Country up to May 6, 2021.
 -	C and C.csv: List of countries and continents
@@ -10,6 +13,7 @@ Input files:
 -	Health expenditure.csv: Health Expenditure by country
 -	Vaccines.csv: Covid-19 vaccination data by country
 -	World_GDP2021: Continents GDP 2021.
+-	
 Output files: 
 -	Scripts: 
 1-	Covid_Data.py: Analysis of Covid-19 data
