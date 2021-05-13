@@ -35,10 +35,11 @@ Output files:
 
 -	CSV files:
 1.	CovidbyContinent.csv: Covid-19 data summary by Continent
-2.	Covid_population.csv: Combined Covid and population data by country
-3.	TestsbyContinent.csv: Covid tests summary by continent
-4.	Continents Average Health Expenditure 2010-2018.csv: Continents’ health expenditure summary
-5.	population_summary.csv: Population summary by continent
+2.	Top_ten_covid.csv: Top ten countries- Number of cases
+3.	Covid_population.csv: Combined Covid and population data by country
+4.	TestsbyContinent.csv: Covid tests summary by continent
+5.	Continents Average Health Expenditure 2010-2018.csv: Continents’ health expenditure summary
+6.	population_summary.csv: Population summary by continent
 
 Since the beginning of the Covid-19 pandemic, there have been many scientific and media articles theorizing about Africa’s low Covid infections and deaths. Africa’s reported Covid statistics looked much better than scientists and health experts expected given the weak state of the health system in the continent. 
 
